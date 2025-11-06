@@ -1,0 +1,16 @@
+codigo,nombre,descripcion
+CAT01,Programación,Desde fundamentos hasta frameworks modernos.
+CAT02,Ciencia de Datos,"Análisis, estadística y machine learning."
+CAT03,Inteligencia Artificial,"IA clásica, DL y aplicaciones."
+CAT04,Marketing,"Estrategias, growth y analítica."
+CAT05,Diseño UX/UI,Experiencia de usuario y diseño visual.
+CAT06,DevOps,"CI/CD, contenedores y nube."
+CAT07,Ciberseguridad,Seguridad ofensiva y defensiva.
+CAT08,Bases de Datos,"SQL, NoSQL y modelado."
+CAT09,Gestión de Proyectos,"Ágil, Scrum y liderazgo."
+CAT10,Emprendimiento,Modelos de negocio y pitch.
+CAT11,Finanzas,Finanzas personales y corporativas.
+CAT12,Cloud Computing,"AWS, Azure, GCP."
+CAT13,Análisis de Datos,Herramientas y visualización.
+CAT14,Redes,"Protocolos, routing y switching."
+CAT15,Sistemas Operativos,"Linux, Windows, administración."
