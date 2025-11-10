@@ -1,21 +1,21 @@
 cursoId,titulo,descripcion,nivel,anioPublicacion,calificacionPromedio
-1,Fundamentos de Programación,"Fundamentos de Programación — contenidos, ejemplos y proyecto final.",Intermedio,2021,4.51
-2,Introducción a Ciencia de Datos,"Introducción a Ciencia de Datos — contenidos, ejemplos y proyecto final.",Avanzado,2019,4.41
-3,Redes Neuronales con Python,"Redes Neuronales con Python — contenidos, ejemplos y proyecto final.",Avanzado,2021,3.75
-4,Marketing Digital para Principiantes,"Marketing Digital para Principiantes — contenidos, ejemplos y proyecto final.",Avanzado,2021,4.53
-5,Diseño UX desde Cero,"Diseño UX desde Cero — contenidos, ejemplos y proyecto final.",Básico,2021,4.73
-6,DevOps con Docker y Kubernetes,"DevOps con Docker y Kubernetes — contenidos, ejemplos y proyecto final.",Intermedio,2022,3.6
-7,Seguridad Informática Práctica,"Seguridad Informática Práctica — contenidos, ejemplos y proyecto final.",Avanzado,2023,3.82
-8,Modelado de Bases de Datos,"Modelado de Bases de Datos — contenidos, ejemplos y proyecto final.",Avanzado,2025,3.71
-9,Gestión Ágil con Scrum,"Gestión Ágil con Scrum — contenidos, ejemplos y proyecto final.",Avanzado,2022,4.62
-10,Emprendimiento Lean,"Emprendimiento Lean — contenidos, ejemplos y proyecto final.",Avanzado,2024,4.04
-11,Finanzas Personales Inteligentes,"Finanzas Personales Inteligentes — contenidos, ejemplos y proyecto final.",Intermedio,2019,4.63
-12,Arquitectura Cloud en AWS,"Arquitectura Cloud en AWS — contenidos, ejemplos y proyecto final.",Básico,2020,4.69
-13,Visualización de Datos Práctica,"Visualización de Datos Práctica — contenidos, ejemplos y proyecto final.",Básico,2024,4.07
-14,Redes de Computadores Avanzadas,"Redes de Computadores Avanzadas — contenidos, ejemplos y proyecto final.",Intermedio,2018,4.52
-15,Linux para Administradores,"Linux para Administradores — contenidos, ejemplos y proyecto final.",Avanzado,2022,4.65
-16,SQL y NoSQL: Un Enfoque Práctico,"SQL y NoSQL: Un Enfoque Práctico — contenidos, ejemplos y proyecto final.",Intermedio,2024,3.74
-17,Análisis Exploratorio de Datos,"Análisis Exploratorio de Datos — contenidos, ejemplos y proyecto final.",Avanzado,2022,4.96
-18,Machine Learning Aplicado,"Machine Learning Aplicado — contenidos, ejemplos y proyecto final.",Avanzado,2019,4.81
-19,Microservicios con Spring,"Microservicios con Spring — contenidos, ejemplos y proyecto final.",Avanzado,2021,3.73
-20,Estadística para Data Science,"Estadística para Data Science — contenidos, ejemplos y proyecto final.",Avanzado,2018,4.4
+C-FP,Fundamentos de Programación,"Fundamentos de Programación — contenidos, ejemplos y proyecto final.",Intermedio,2021,4.51
+C-IC,Introducción a Ciencia de Datos,"Introducción a Ciencia de Datos — contenidos, ejemplos y proyecto final.",Avanzado,2019,4.41
+C-RN,Redes Neuronales con Python,"Redes Neuronales con Python — contenidos, ejemplos y proyecto final.",Avanzado,2021,3.75
+C-MD,Marketing Digital para Principiantes,"Marketing Digital para Principiantes — contenidos, ejemplos y proyecto final.",Avanzado,2021,4.53
+C-DU,Diseño UX desde Cero,"Diseño UX desde Cero — contenidos, ejemplos y proyecto final.",Básico,2021,4.73
+C-DD,DevOps con Docker y Kubernetes,"DevOps con Docker y Kubernetes — contenidos, ejemplos y proyecto final.",Intermedio,2022,3.6
+C-SI,Seguridad Informática Práctica,"Seguridad Informática Práctica — contenidos, ejemplos y proyecto final.",Avanzado,2023,3.82
+C-MB,Modelado de Bases de Datos,"Modelado de Bases de Datos — contenidos, ejemplos y proyecto final.",Avanzado,2025,3.71
+C-GA,Gestión Ágil con Scrum,"Gestión Ágil con Scrum — contenidos, ejemplos y proyecto final.",Avanzado,2022,4.62
+C-EL,Emprendimiento Lean,"Emprendimiento Lean — contenidos, ejemplos y proyecto final.",Avanzado,2024,4.04
+C-FP-2,Finanzas Personales Inteligentes,"Finanzas Personales Inteligentes — contenidos, ejemplos y proyecto final.",Intermedio,2019,4.63
+C-AC,Arquitectura Cloud en AWS,"Arquitectura Cloud en AWS — contenidos, ejemplos y proyecto final.",Básico,2020,4.69
+C-VD,Visualización de Datos Práctica,"Visualización de Datos Práctica — contenidos, ejemplos y proyecto final.",Básico,2024,4.07
+C-RC,Redes de Computadores Avanzadas,"Redes de Computadores Avanzadas — contenidos, ejemplos y proyecto final.",Intermedio,2018,4.52
+C-LA,Linux para Administradores,"Linux para Administradores — contenidos, ejemplos y proyecto final.",Avanzado,2022,4.65
+C-SN,SQL y NoSQL: Un Enfoque Práctico,"SQL y NoSQL: Un Enfoque Práctico — contenidos, ejemplos y proyecto final.",Intermedio,2024,3.74
+C-AE,Análisis Exploratorio de Datos,"Análisis Exploratorio de Datos — contenidos, ejemplos y proyecto final.",Avanzado,2022,4.96
+C-ML,Machine Learning Aplicado,"Machine Learning Aplicado — contenidos, ejemplos y proyecto final.",Avanzado,2019,4.81
+C-MS,Microservicios con Spring,"Microservicios con Spring — contenidos, ejemplos y proyecto final.",Avanzado,2021,3.73
+C-ED,Estadística para Data Science,"Estadística para Data Science — contenidos, ejemplos y proyecto final.",Avanzado,2018,4.4
