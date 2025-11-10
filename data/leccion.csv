@@ -1,5 +1,5 @@
 leccionId,titulo,descripcion,duracionMin,numero
-001,Lección 1,Contenido práctico de la lección 1.,35,1
-002,Lección 2,Contenido práctico de la lección 2.,10,2
-003,Lección 3,Contenido práctico de la lección 3.,15,3
-004,Lección 4,Contenido práctico de la lección 4.,20,4
+L-01,Lección 1,Contenido práctico de la lección 1.,35,1
+L-02,Lección 2,Contenido práctico de la lección 2.,10,2
+L-03,Lección 3,Contenido práctico de la lección 3.,15,3
+L-04,Lección 4,Contenido práctico de la lección 4.,20,4
