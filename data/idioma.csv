@@ -1,6 +1,6 @@
-codigo,nombre
-es,Español
-en,Inglés
-pt,Portugués
-de,Alemán
-it,Italiano
+idiomaId,nombre
+01,Español
+02,Inglés
+03,Portugués
+04,Alemán
+05,Italiano

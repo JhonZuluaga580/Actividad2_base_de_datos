@@ -1,31 +1,31 @@
 usuarioId,cursoId,fechaInicio,fechaFin,progreso,estado
-U-001,C-FP,2025-03-28,,25,En progreso
-U-001,C-RN,2022-04-04,,25,Abandonado
-U-002,C-IC,2022-06-13,,25,En progreso
-U-002,C-MD,2024-02-18,,40,Abandonado
-U-003,C-FP,2025-07-25,,55,En progreso
-U-003,C-DU,2024-01-29,,55,En progreso
-U-004,C-IC,2025-10-04,,40,En progreso
-U-004,C-DD,2025-06-01,,10,En progreso
-U-005,C-RN,2022-12-01,,85,Abandonado
-U-005,C-MD,2023-07-07,2023-11-03,100,Completado
-U-006,C-DD,2025-11-03,,55,En progreso
-U-006,C-SI,2023-04-15,,0,Abandonado
-U-007,C-MD,2024-04-01,,40,En progreso
-U-007,C-MB,2023-03-09,,55,En progreso
-U-008,C-DD,2025-09-04,,85,Abandonado
-U-008,C-GA,2025-08-09,,85,En progreso
-U-009,C-DU,2023-06-27,,10,En progreso
-U-009,C-IC,2025-02-23,2025-07-14,100,Completado
-U-010,C-SI,2025-04-12,,70,Abandonado
-U-010,C-RN,2024-01-12,,25,En progreso
-U-011,C-FP,2024-11-09,,85,En progreso
-U-012,C-IC,2022-04-07,,5,En progreso
-U-013,C-RN,2025-07-09,,10,Abandonado
-U-014,C-MD,2025-05-06,,5,Abandonado
-U-015,C-DD,2024-02-21,,85,Abandonado
-U-016,C-SI,2025-02-07,,0,En progreso
-U-017,C-MB,2025-10-28,2026-11-23,100,Completado
-U-018,C-GA,2023-07-01,,55,En progreso
-U-019,C-EL,2023-08-25,,70,En progreso
-U-020,C-DU,2024-07-18,,0,Abandonado
+0001,001,2025-03-28,,25,En progreso
+0001,003,2022-04-04,,25,Abandonado
+0002,002,2022-06-13,,25,En progreso
+0002,004,2024-02-18,,40,Abandonado
+0003,001,2025-07-25,,55,En progreso
+0003,005,2024-01-29,,55,En progreso
+0004,002,2025-10-04,,40,En progreso
+0004,006,2025-06-01,,10,En progreso
+0005,003,2022-12-01,,85,Abandonado
+0005,004,2023-07-07,2023-11-03,100,Completado
+0006,006,2025-11-03,,55,En progreso
+0006,007,2023-04-15,,0,Abandonado
+0007,004,2024-04-01,,40,En progreso
+0007,008,2023-03-09,,55,En progreso
+0008,006,2025-09-04,,85,Abandonado
+0008,009,2025-08-09,,85,En progreso
+0009,005,2023-06-27,,10,En progreso
+0009,002,2025-02-23,2025-07-14,100,Completado
+0010,007,2025-04-12,,70,Abandonado
+0010,003,2024-01-12,,25,En progreso
+0011,001,2024-11-09,,85,En progreso
+0012,002,2022-04-07,,5,En progreso
+0013,003,2025-07-09,,10,Abandonado
+0014,004,2025-05-06,,5,Abandonado
+0015,006,2024-02-21,,85,Abandonado
+0016,007,2025-02-07,,0,En progreso
+0017,008,2025-10-28,2026-11-23,100,Completado
+0018,009,2023-07-01,,55,En progreso
+0019,010,2023-08-25,,70,En progreso
+0020,005,2024-07-18,,0,Abandonado
